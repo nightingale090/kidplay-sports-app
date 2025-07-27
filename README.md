@@ -10,11 +10,6 @@ A sleek, modern web application designed to engage kids and parents in an intera
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](public/placeholder.jpg) <!-- Replace with an actual screenshot if needed -->
-
----
 
 ## 🔧 Tech Stack
 
@@ -58,14 +53,6 @@ pnpm dev
 
 
 ---
-
-### ✅ What to Do Next:
-1. Create a file in your repo: `README.md`
-2. Paste the content above
-3. Commit & push it!
-
-Let me know if you want to add your **profile picture**, **credits**, or **project goals/vision** too. I can polish it even more!
-
 
 🧠 Author
 👤 nightingale090
